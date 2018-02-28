@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/App/_Scenes/CV_Space_Test.unity
+  isLoaded: 1
+  isActive: 1
